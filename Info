@@ -1,0 +1,8 @@
+
+https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/
+
+http://localhost:8090/echoStudentName/Srinivas
+http://localhost:8090/getStudentDetails/Srinivas
+
+http://localhost:8080/student/getStudentDetails/Srinivas
+http://localhost:8080/student/echoStudentName/Srinivas
